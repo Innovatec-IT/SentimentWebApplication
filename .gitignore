@@ -1,0 +1,13 @@
+# Intellij project folder and other related files
+.idea
+*.iml
+
+# pom file
+pom.xml
+.DS_Store
+
+# Maven project compiler files
+/target/
+
+#Java files
+.class
